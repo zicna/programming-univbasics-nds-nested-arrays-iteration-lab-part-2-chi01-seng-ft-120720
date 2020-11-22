@@ -6,7 +6,7 @@ i = 0
 arr_new = []
 while src.length > i do 
   ii = 0
-  min = +infinity
+  min = 1000
   while src[i] > ii do 
     
     if (src[i][ii] < min)
