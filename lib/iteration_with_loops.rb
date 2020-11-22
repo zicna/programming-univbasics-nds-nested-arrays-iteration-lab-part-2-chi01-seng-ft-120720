@@ -19,7 +19,7 @@ while src.length < i do
   arr_new << min
 
 end
-
+arr_new
 end
 array = [[1,23,3,4], [67,90,78], [78,23,43,12,45]]
 puts find_min_in_nested_arrays(array)
