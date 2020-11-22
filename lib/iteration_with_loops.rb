@@ -6,7 +6,7 @@ i = 0
 arr_new = []
 
 
-while scr.length < i do 
+while src.length < i do 
   ii = 0
   min = +infinity
   while src[i] < ii do 
