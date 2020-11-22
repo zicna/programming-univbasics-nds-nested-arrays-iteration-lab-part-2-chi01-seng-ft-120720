@@ -14,7 +14,7 @@ while src.length > i do
     end
     ii += 1
   end
-  arr_new << min
+  arr_new.push(min)
 
 end
 return arr_new
