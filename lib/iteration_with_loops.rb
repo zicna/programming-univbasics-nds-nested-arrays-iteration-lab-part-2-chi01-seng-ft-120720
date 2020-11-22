@@ -7,7 +7,7 @@ arr_new = []
 while src.length > i do 
   ii = 0
   min = 1000
-  while src[i] > ii do 
+  while src[i].length > ii do 
     
     if (src[i][ii] < min)
       min = src[i][ii]
