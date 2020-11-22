@@ -19,4 +19,6 @@ while src.length < i do
   arr_new << min
 
 end
+
 end
+puts "hello"
